@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\medicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\medicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\consultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\consultas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:07:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consultas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Consultas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T23:03:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consultas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Consultas\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T23:03:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consultas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Consultas\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T22:47:39.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:43:28.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Models\\Consulta.cs",
+              "RelativeToolTip": "Models\\Consulta.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:38:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Medicos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Medicos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Medicos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T22:25:28.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
