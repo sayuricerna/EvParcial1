@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EVParcial1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f1ae4c5a041222784b165185b6fe57829542f6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48ff964a8382d303db5d07615e1ee1ebb0b0301c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EVParcial1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EVParcial1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

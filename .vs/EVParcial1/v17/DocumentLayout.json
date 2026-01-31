@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\models\\clinicabuenavidacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:models\\clinicabuenavidacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:views\\consultas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|solutionrelative:controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1977BB84-56DA-4417-AEDD-07FA134E8B9B}|EVParcial1.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\evparcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +70,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T00:01:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClinicaBuenaVidaContext.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Models\\ClinicaBuenaVidaContext.cs",
+              "RelativeDocumentMoniker": "Models\\ClinicaBuenaVidaContext.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Models\\ClinicaBuenaVidaContext.cs",
+              "RelativeToolTip": "Models\\ClinicaBuenaVidaContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T00:03:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T00:01:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T23:58:25.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -62,12 +130,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T23:07:06.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T23:07:06.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Consultas\\Edit.cshtml",
@@ -75,12 +142,11 @@
               "RelativeToolTip": "Views\\Consultas\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T23:03:23.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T23:03:23.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Consultas\\Index.cshtml",
@@ -88,12 +154,11 @@
               "RelativeToolTip": "Views\\Consultas\\Index.cshtml",
               "ViewState": "AgIAADgAAAAAAAAAAAAmwEkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T23:03:16.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T23:03:16.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Consultas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Consultas\\Create.cshtml",
@@ -101,8 +166,7 @@
               "RelativeToolTip": "Views\\Consultas\\Create.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAMwDAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T22:47:39.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:47:39.824Z"
             },
             {
               "$type": "Document",
@@ -119,20 +183,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Models\\Consulta.cs",
               "RelativeDocumentMoniker": "Models\\Consulta.cs",
               "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Models\\Consulta.cs",
               "RelativeToolTip": "Models\\Consulta.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA2wC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T22:38:50.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\EVParcial1\\Views\\Medicos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Medicos\\Index.cshtml",
@@ -140,8 +204,7 @@
               "RelativeToolTip": "Views\\Medicos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T22:25:28.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:25:28.79Z"
             }
           ]
         }
